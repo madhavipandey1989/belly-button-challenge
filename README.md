@@ -13,4 +13,7 @@ This analysis showed the distribution of microbes in belly button.
 Files used,
 index.html and app.js for loading the required dataset and plotting the chart.
 
+Direct url for the dashboard page.
+https://madhavipandey1989.github.io/belly-button-challenge/
+
  
